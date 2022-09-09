@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main-this is the main entry of the code
- * return:should return a non-negative number
+ * return-should return a non-negative number
 */
 int main(void)
 {
