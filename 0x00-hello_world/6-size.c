@@ -3,7 +3,7 @@
  * main-this is the entry point of the programme
  *
  * return: 0 if no error, non-zero if there's error
-*/
+ */
 int main(void)
 {
 	printf("Size of a char: %ld byte(s)\n", sizeof(char));
