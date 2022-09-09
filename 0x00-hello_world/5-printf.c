@@ -1,6 +1,6 @@
 #include <stdio.h>
-/*
- * main:this is the main entry of the code
+/**
+ * main-this is the main entry of the code
  * return:should return a non-negative number
 */
 int main(void)
