@@ -1,10 +1,10 @@
 #include <stdio.h>
 /*
- * main:this is the main entry point of the programme
- * return:this should return a non-negative number at success and eof
+ * main:this is the main entry of the code
+ * return:should return a non-negative number
 */
-int main()
+int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art,%d");
-	return (0);
+	printf("with proper grammar, but the outcome is a piece of art,\n");
+		return(0);
 }
