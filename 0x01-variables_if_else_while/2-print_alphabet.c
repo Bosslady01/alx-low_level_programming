@@ -4,16 +4,15 @@
  *Return: Always 0 (Success/correct)
  */
 int main(void)
-
 {
-        char alphabet;
+	char alphabet;
 
-        for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
-        {
-                putchar(alphabet);
-        }
+	for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
+	{
 
-        putchar('\n');
+	putchar(alphabet);
+	}
 
-        return (0);
+	putchar('\n');
+	return (0);
 }
