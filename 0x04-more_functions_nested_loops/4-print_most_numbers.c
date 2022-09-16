@@ -1,5 +1,5 @@
 #include "main.h"
-
+#include <stdio.h>
 /**
  * print_most_numbers - print 0-9 without 2 and 4
  *
