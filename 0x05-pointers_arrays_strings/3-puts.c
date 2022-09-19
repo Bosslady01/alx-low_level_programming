@@ -1,5 +1,5 @@
 #include "main.h"
-
+#include <stdio.h>
 /**
  * _puts - a function that prints a string
  * @str: string input
@@ -12,9 +12,9 @@ void _puts(char *str)
 	int i;
 	for (i = 0; str[i] != '\0'; i++)
 	{
-		_puts(str[1]);
+		_puts(char *str);
 	}
-	_putchar('\n');
+	_puts('str');
 
 }
 
